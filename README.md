@@ -1,1 +1,1 @@
-# EGC
+# Fundamentals of Computer Graphics
