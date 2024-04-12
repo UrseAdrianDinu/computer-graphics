@@ -1,1 +1,1 @@
-# Fundamentals of Computer Graphics
+# Computer Graphics
